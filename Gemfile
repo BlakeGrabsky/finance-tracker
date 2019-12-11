@@ -11,8 +11,10 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 # Use jquery
 gem 'jquery-rails'
-# User Devise Bootstrap Views
+# Use Devise Bootstrap Views
 gem 'devise-bootstrap-views'
+# Use iex Ruby Client
+gem 'iex-ruby-client'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
