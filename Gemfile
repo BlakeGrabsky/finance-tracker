@@ -16,7 +16,7 @@ gem 'devise-bootstrap-views'
 # Use iex Ruby Client
 gem 'iex-ruby-client'
 # Use Puma as the app server
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
